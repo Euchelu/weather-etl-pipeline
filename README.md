@@ -1,5 +1,9 @@
 # Weather ETL Pipeline
 
+[![CI](https://github.com/Euchelu/data-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/Euchelu/data-pipeline/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![Tests](https://img.shields.io/badge/tests-25%20passed-brightgreen)
+
 ETL pipeline that extracts real-time weather data from the **Open-Meteo API**, transforms it with **pandas**, and loads it into **PostgreSQL**. Fully containerized with Docker and tested with Pytest.
 
 ## Architecture
