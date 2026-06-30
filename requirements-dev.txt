@@ -1,0 +1,6 @@
+# Desarrollo local y tests (sin psycopg2)
+requests==2.32.3
+pandas==2.2.3
+sqlalchemy==2.0.36
+pytest==8.3.4
+pytest-mock==3.14.0
