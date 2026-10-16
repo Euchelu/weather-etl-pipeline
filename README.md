@@ -1,6 +1,6 @@
 # Weather ETL Pipeline
 
-[![CI](https://github.com/Euchelu/data-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/Euchelu/data-pipeline/actions/workflows/ci.yml)
+[![CI](https://github.com/Euchelu/weather-etl-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/Euchelu/weather-etl-pipeline/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.13-blue)
 ![Tests](https://img.shields.io/badge/tests-25%20passed-brightgreen)
 
@@ -116,6 +116,5 @@ DATABASE_URL=postgresql://postgres:postgres@localhost:5432/weatherdb
 
 ## Author
 
-**José Ángel Ceballos Rodríguez**
+**Euchelu**
 - GitHub: [@Euchelu](https://github.com/Euchelu)
-- LinkedIn: [José Ángel Ceballos](https://www.linkedin.com/in/josé-ángel-ceballos-rodríguez-a44996346/)
